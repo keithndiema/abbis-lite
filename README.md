@@ -91,7 +91,7 @@ compatible-group substitution · CI pipeline · pilot design.
 | Member | GitHub | Focus |
 |---|---|---|
 | Biyimbwa Elijah Simwogerere | [@2025bcs068-prog](https://github.com/2025bcs068-prog) | Architecture, backend, security |
-| Kissa Keith Ndiema | [@veritasndiema-ctrl](https://github.com/veritasndiema-ctrl) | Backend, deployment, AI/data |
+| Kissa Keith Ndiema | [@veritasndiema-ctrl](https://github.com/keithndiema) | Backend, deployment, AI/data |
 | Kisembo Stephen | [@stephenkisembo19-debug](https://github.com/stephenkisembo19-debug) | AI/data, front end |
 | Okori Sadrach | [@2025bcs205-lang](https://github.com/2025bcs205-lang) | AI/data |
 | Tusiime Betty | [@fernabetty](https://github.com/fernabetty) | Front end |
